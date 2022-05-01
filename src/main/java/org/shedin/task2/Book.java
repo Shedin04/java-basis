@@ -1,8 +1,5 @@
 package org.shedin.task2;
 
-import org.apache.commons.lang3.builder.EqualsBuilder;
-import org.apache.commons.lang3.builder.HashCodeBuilder;
-
 import java.math.BigDecimal;
 import java.util.Objects;
 
